@@ -9,72 +9,72 @@ The core plugin code is private while the product is under active development.
 
 ---
 
-What GAZE Is
+## What GAZE Is
 
 GAZE is not a “generate everything” button.
 
 It is an AI co-pilot that:
 
--reads an existing project
+- reads an existing project
 
--proposes changes
+- proposes changes
 
--shows diffs before anything is applied
+- shows diffs before anything is applied
 
--lets developers explicitly approve or reject edits
+- lets developers explicitly approve or reject edits
 
 The goal is assist, not replace.
 
 ---
 
-Current Capabilities (Early MVP)
+## Current Capabilities (Early MVP)
 
 As of now, GAZE can:
 
--Edit GDScript files inside the Godot editor
+- Edit GDScript files inside the Godot editor
 
--Generate proposed changes based on natural language instructions
+- Generate proposed changes based on natural language instructions
 
--Display diffs for review
+- Display diffs for review
 
--Apply changes only after user confirmation
+- Apply changes only after user confirmation
 
 This is intentionally limited.
 Reliability and trust come before breadth.
 
 ---
 
-What GAZE Is Not
+## What GAZE Is Not
 
--Not a new game engine
+- Not a new game engine
 
--Not a no-code toy
+- Not a no-code toy
 
--Not an “AI does everything” platform
+- Not an “AI does everything” platform
 
--Not a public SDK (yet)
+- Not a public SDK (yet)
 
-GAZE is being built for developers who care about:
+## GAZE is being built for developers who care about:
 
--control
+- control
 
--readability
+- readability
 
--reversibility
+- reversibility
 
--real projects, not demos
+- real projects, not demos
 
 ---
 
-Development Status
+## Development Status
 
 GAZE is currently:
 
--Private alpha
+- Private alpha
 
--Single-file editing
+- Single-file editing
 
--No public release yet
+- No public release yet
 
 Public access is planned after March.
 
@@ -82,46 +82,46 @@ If you are an experienced Godot developer and want to give feedback, you can joi
 
 ---
 
-Website & Updates
+## Website & Updates
 
 🔗 https://gazeplugin.vercel.app/
 
 The website is used for:
 
--product explanation
+- product explanation
 
--waitlist collection
+- waitlist collection
 
--release updates
+- release updates
 
 ---
 
-Philosophy
+## Philosophy
 
 AI tools fail when they:
 
--hide changes
+- hide changes
 
--overwrite context
+- overwrite context
 
--break trust
+- break trust
 
 GAZE is being built around one principle:
 
---Nothing changes unless the developer explicitly allows it.
+*`Nothing changes unless the developer explicitly allows it.`*
 
 ---
 
-Contact
+## Contact
 
 Built by a small team.
 Project lead: *Rusith Welisara*
 
 For early feedback or discussion, reach out via the website.
 
---
+---
 
-Disclaimer
+## Disclaimer
 
 This project is under active development.
 Features, scope, and implementation details may change.
